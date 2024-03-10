@@ -3,11 +3,12 @@ The Weather Dashboard is a web application designed for travelers who want to pl
 
 
 Features
-Search for a city: Enter the name of the city you want to search for to view current and future weather conditions.
-Display current weather conditions: View city name, date, weather icon, temperature, humidity, and wind speed for current conditions.
-Present a 5-day forecast: See a forecast for the next five days, including date, weather icon, temperature, wind speed, and humidity.
-Search history: Searched cities are automatically added to the search history for easy access.
-Click on search history: Click on a city in the search history to view its weather conditions again.
+Enter the name of the city you want to search for to view current and future weather conditions.
+View city name, date, weather icon, temperature, humidity, and wind speed for current conditions.
+See a forecast for the next five days, including date, weather icon, temperature, wind speed, and humidity.
+Searched cities are automatically added to the search history for easy access.
+Click on a city in the search history to view its weather conditions again.
+
 How to Use
 Visit the Weather Dashboard website.
 Enter the name of the city you want to search for in the input field.
