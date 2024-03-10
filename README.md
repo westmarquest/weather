@@ -1,6 +1,6 @@
-Weather Dashboard
-Overview
+Weather Dashboard Overview
 The Weather Dashboard is a web application designed for travelers who want to plan their trips based on weather forecasts for multiple cities. With this dashboard, users can easily access current and future weather conditions for any city and view a 5-day forecast.
+
 
 Features
 Search for a city: Enter the name of the city you want to search for to view current and future weather conditions.
